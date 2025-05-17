@@ -14,7 +14,6 @@ A brief explanation on the basic workflow of the application.
 - The registered user (voter) following the approval from the admin casts their vote to the candidate of interest (from the voting page).
 - After some time, depending on the scale of the election the admin ends the election. As that happens the voting is closed and the results are displayed announcing the winner at the top of the results page.
 
-  **See demo [here](https://youtu.be/nh1zfTTrdII "Watch dVoting demo").**
 
 ---
 
@@ -97,13 +96,3 @@ Possible features to add/improve within the app.
 - [ ] **Report**—option to generate a report at the end of an election. The report could contain a range of information including the number of people that were eligible to vote, the number of people that participated in the election, a bar-chart/pie-chart showing the election statistics, etc.
 - [ ] **Workflow improvements**—overall workflow improvements (eg. option to add candidates within the election setup page), with overall GUI improvements.
 - [ ] **Multiple election instance**—ability to create multiple election instances without having to re-deploy the smart contract.
-
-## Join us on Discord
-
-[![Join our Discord server!](https://invidget.switchblade.xyz/3jmfdNsHWr)](https://discord.gg/3jmfdNsHWr)
-
-[discord.gg/3jmfdNsHWr](https://discord.gg/3jmfdNsHWr "Join us on Discord!")
-
----
-
-Made with ❤️ by [Bibek Aryal](https://bibeka.com.np/).
